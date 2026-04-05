@@ -9,11 +9,16 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/USERNAME?v=4" width="150" style="border-radius:50%" />
+</p>
+
 - 🔭 I’m currently working on AI/ML & Full Stack Projects  
 - 🌱 I’m learning Advanced AI Agents & LLM Systems  
 - 💡 Passionate about solving real-world problems  
-- ⚡ Love building scalable and smart systems  
+- ⚡ Love building scalable and intelligent systems  
 
 ---
 
@@ -24,12 +29,12 @@
   <img src="https://skillicons.dev/icons?i=python,php,js,cpp" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
 </p>
@@ -39,14 +44,13 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
 
 ### 🤖 AI/ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -55,23 +59,26 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Bari&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Md-Bari&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://github.com/Md-Bari)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:your-email@gmail.com">
