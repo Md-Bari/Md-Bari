@@ -1,4 +1,5 @@
 # Md Bari 
+
 <h1 align="center">Hi 👋, I'm Md Bari</h1>
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
@@ -17,8 +18,38 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp" />
+</p>
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+</p>
+
+### 🤖 AI/ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
@@ -40,7 +71,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:your-email@gmail.com">
