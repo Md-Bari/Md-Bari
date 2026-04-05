@@ -4,7 +4,7 @@
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full+Stack+Developer;Laravel+Developer;Machine+Learning+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="[https://readme-typing-svg.herokuapp.com](https://github.com/account)/?lines=AI+Engineer;Full+Stack+Developer;Laravel+Developer;Machine+Learning+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
