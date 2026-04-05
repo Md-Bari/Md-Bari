@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Md Bari</h1>
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/195853995?v=4">
-</p>
 
 ---
 
