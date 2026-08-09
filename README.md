@@ -1,56 +1,61 @@
-# Md Bari 
+# Md Bari
 
-<h1 align="center">Hi 👋, I'm Md Bari</h1>
-<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://github.com/Md-Bari.png?size=150" alt="Md Bari" width="150" style="border-radius:50%" />
+</p>
 
+<h3 align="center">AI/ML Enthusiast · Full Stack Developer · Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USERNAME?v=4" width="150" style="border-radius:50%" />
-</p>
+I build practical AI/ML and full-stack solutions focused on reliability, scalability, and real-world impact. I enjoy designing systems that make it easier to take ideas from concept to production.
 
-- 🔭 I’m currently working on AI/ML & Full Stack Projects  
-- 🌱 I’m learning Advanced AI Agents & LLM Systems  
-- 💡 Passionate about solving real-world problems  
-- ⚡ Love building scalable and intelligent systems  
+- 🔭 Currently working on AI agents and full-stack projects
+- 🌱 Learning advanced LLM systems and production ML engineering
+- 💡 Interested in system design, model deployment, and developer experience
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp" alt="languages" />
 </p>
 
-### 🌐 Frontend
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="frontend" />
 </p>
 
-### ⚙️ Backend
+### Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="backend" />
 </p>
 
-### 🗄️ Database
+### Database
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="database" />
 </p>
 
-### 🛠️ Tools
+### Tools & Environment
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="tools" />
 </p>
 
-### 🤖 AI/ML
+### AI / ML
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ---
@@ -58,40 +63,36 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=Md-Bari&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Md-Bari&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-## 🚀 Top Languages
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+- AI Agent System — intelligent automation and orchestration of workflows
+- CNN Image Classifier — image recognition pipeline with training & inference
+- Laravel Travel Platform — travel booking and management platform
+- Worker Rental App — mobile-first marketplace for hourly workers
+
+(Links and details can be added per project repository.)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://github.com/Md-Bari)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## 🔥 Featured Projects
-- 🤖 AI Agent System  
-- 🧠 CNN Image Classifier  
-- 🌍 Laravel Travel Platform  
-- 📱 Worker Rental App  
 
 ---
 
 ## ⚡ Fun Fact
+
 > I turn ideas into intelligent systems 🚀
