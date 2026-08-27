@@ -1,125 +1,201 @@
-<style>
-  @keyframes wave {
-    0%, 100% { transform: translateY(0); }
-    25% { transform: translateY(-10px); }
-    50% { transform: translateY(0); }
-    75% { transform: translateY(-5px); }
-  }
-</style>
+<div align="center">
 
-# <span style="animation: wave 2s ease-in-out infinite; display: inline-block; transform-origin: bottom;">Md Bari</span>
+# 👋 Hi, I'm **Md Rofiqul Bari**
+
+### AI Engineer | Full Stack Developer | Computer Vision & Data Pipelines
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <p align="center">
-  <img src="https://github.com/Md-Bari.png?size=150" alt="Md Bari" width="150" style="border-radius:50%" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Bari&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Md-Bari?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
 </p>
 
-<h3 align="center">AI/ML Enthusiast · Full Stack Developer · Problem Solver</h3>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I build practical AI/ML and full-stack solutions focused on reliability, scalability, and real-world impact. I enjoy designing systems that make it easier to take ideas from concept to production.
+### 🧑‍💻 **About Me:**
 
-- 🔭 Currently working on AI agents and full-stack projects
-- 🌱 Learning advanced LLM systems and production ML engineering
-- 💡 Interested in system design, model deployment, and developer experience
+```python
+class RofiqulBari:
+    def __init__(self):
+        self.name = "Md Rofiqul Bari"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.role = "AI Engineer @ Betopia Limited"
+        self.education = "BSc in CSE, Daffodil International University (CGPA 3.87/4.00)"
+        self.focus = [
+            "LLM-powered chatbots & agents (LangChain, LangGraph)",
+            "Retrieval-Augmented Generation (RAG) pipelines",
+            "Computer Vision & Medical Image Classification",
+            "Scalable APIs with FastAPI & Django REST Framework"
+        ]
+        self.currently_researching = "Explainable AI (XAI) in medical imaging"
 
----
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something with AI!")
+```
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cpp" alt="languages" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="frontend" />
-</p>
-
-### Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="backend" />
-</p>
-
-### Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="database" />
-</p>
-
-### Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="tools" />
-</p>
-
-### AI / ML
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 **What I'm Up To**
 
-<p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
-  <!-- Streak stats (alternate service) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Bari&theme=tokyonight" alt="streak" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<!-- Top languages and contribution graph (use public services) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🤝 **Currently Working On:**
+- 🤖 **LLM-Powered Applications** — Building production RAG pipelines with document ingestion, chunking, embedding, vector retrieval, reranking, and inference.
+- 🩺 **Medical Image Analysis** — Lightweight CNNs for cancer classification with explainability (Grad-CAM).
+- ⚙️ **AI-Integrated Backends** — FastAPI + Django REST Framework services that plug ML models into real products.
+- 📊 **Data Pipelines** — ETL/ELT systems for structured and unstructured data at scale.
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Md-Bari&theme=react-dark&area=true" alt="Contribution Graph" />
-</p>
+</td>
+<td width="50%">
 
----
+### 💬 **Ask Me About:**
+- 🧠 **RAG & LLM Integration** — OpenAI, Gemini, Groq, Hugging Face, LangChain, LangGraph.
+- 🔬 **Deep Learning & Computer Vision** — TensorFlow, Keras, PyTorch, Transfer Learning, Ensembles.
+- 🗄️ **Vector Databases** — PGVector, ChromaDB, FAISS, Pinecone.
+- ☁️ **Deployment & DevOps** — Docker, CI/CD, PostgreSQL, Redis, Celery.
+- 📝 **Research** — Peer-reviewed publications in medical image classification (Elsevier, IEEE, Atlantis Press).
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <!-- Use the pin endpoint so GitHub repo cards render for public repos. Replace repo names below with the exact repo names if you want different projects. -->
-  <a href="https://github.com/Md-Bari/ai-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=ai-agent&theme=tokyonight" alt="ai-agent" /></a>
-  <a href="https://github.com/Md-Bari/rag-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=rag-chatbot&theme=tokyonight" alt="rag-chatbot" /></a>
-  <a href="https://github.com/Md-Bari/face-recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=face-recognition&theme=tokyonight" alt="face-recognition" /></a>
-</p>
-
-- AI Agent System — intelligent automation and orchestration of workflows
-- CNN Image Classifier — image recognition pipeline with training & inference
-- Laravel Travel Platform — travel booking and management platform
-- Worker Rental App — mobile-first marketplace for hourly workers
-
-(Links and details can be added per project repository.)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ **Tech Arsenal**
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center">
+
+### 🧩 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
 </p>
+
+### 🤖 **AI / ML / Deep Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+### ⚙️ **Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,graphql" />
+</p>
+
+### ⚛️ **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css" />
+</p>
+
+### 🗄️ **Databases & Data Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,githubactions,linux" />
+</p>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 **GitHub Analytics**
 
-> I turn ideas into intelligent systems 🚀
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Bari&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/Md-Bari)
+
+</div>
+
+---
+
+## 💼 **Work Experience**
+
+**AI Engineer** — *Betopia Limited*, Dhaka, Bangladesh · Feb 2026 – Present
+- Designed AI-powered business applications with Python, Next.js, FastAPI, Django, and PostgreSQL.
+- Built and deployed LLM-powered chatbots and agents using LangChain, LangGraph, and custom RAG pipelines.
+- Integrated OpenAI, Gemini, Groq, and Hugging Face models into production, achieving 90%+ accuracy across use cases.
+
+**Research Assistant — AI/ML Research** — *Research and Innovation Lab, Daffodil International University* · 2024 – 2025
+- Benchmarked CNN architectures and ensembles for medical image classification, improving accuracy by 95% over baseline.
+- Co-authored 2 peer-reviewed papers (IDAA 2025, ICCIT 2025).
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=aura&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/aura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=eduai&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/eduai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=enterprise-rag-chatbot&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/enterprise-rag-chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=dsnet&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/dsnet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=ai-prediction-api&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/ai-prediction-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=retail-etl-automation&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&cache_seconds=3600)](https://github.com/Md-Bari/retail-etl-automation)
+
+</div>
+
+| Project | Stack | Highlight |
+|---|---|---|
+| **Aura** — AI Personal Finance Platform | Next.js, DRF, PostgreSQL, Celery, Redis, Groq, ElevenLabs, Docker | 5-microservice app with real-time voice AI financial assistant |
+| **EduAI** — AI Knowledge Platform | Django, Next.js, PostgreSQL, PGVector, Docker | RAG pipeline serving scraped admission/scholarship data via FastAPI |
+| **Enterprise RAG Chatbot** | DRF, FastAPI, PostgreSQL, PGVector, ChromaDB, Gemini, OpenAI | Dual vector storage with reranking and cited LLM responses |
+| **DSNet** — Medical Image Classification | TensorFlow, Keras, OpenCV, Grad-CAM | 98% test accuracy; basis for 2 peer-reviewed publications |
+| **AI Prediction API Platform** | FastAPI, Pydantic, Scikit-learn/TensorFlow, Docker | Async, low-latency, independently versioned model serving |
+| **Retail ETL Automation** | Python, REST API, PostgreSQL | Cut manual data-handling effort by ~80% |
+
+---
+
+## 📚 **Research Publications**
+
+- **DSNet:** A lightweight CNN for cross-magnification whole slide image analysis for breast cancer diagnosis — *Knowledge-Based Systems*, 2026.
+- Comparative Analysis of Deep CNN, Transfer Learning, and Proposed Ensemble Architecture for Monkeypox Detection — *IDAA 2025, Atlantis Press*.
+- A Study on Deep CNN, Transfer Learning, and Ensemble Model for Melanoma Cancer Detection — *ICCIT 2025*.
+
+---
+
+## 🎓 **Education**
+
+- **BSc in Computer Science and Engineering** — Daffodil International University (2022–2025) — CGPA: 3.87/4.00
+- **HSC** — Engineering University School and College — GPA: 5.00/5.00
+- **SSC** — Bir Shrestha Munshi Abdur Rouf Public College — GPA: 5.00/5.00
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rofiqulbari01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+---
+
+**⭐ Made with ❤️ and lots of ☕**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
