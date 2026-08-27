@@ -72,13 +72,31 @@ I build practical AI/ML and full-stack solutions focused on reliability, scalabi
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Main stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Md-Bari&theme=tokyonight" alt="streak" />
+  <!-- Streak stats (alternate service) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Bari&theme=tokyonight" alt="streak" />
+</p>
+
+<!-- Top languages and contribution graph (use public services) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Md-Bari&theme=react-dark&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+<p align="center">
+  <!-- Use the pin endpoint so GitHub repo cards render for public repos. Replace repo names below with the exact repo names if you want different projects. -->
+  <a href="https://github.com/Md-Bari/ai-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=ai-agent&theme=tokyonight" alt="ai-agent" /></a>
+  <a href="https://github.com/Md-Bari/rag-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=rag-chatbot&theme=tokyonight" alt="rag-chatbot" /></a>
+  <a href="https://github.com/Md-Bari/face-recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=face-recognition&theme=tokyonight" alt="face-recognition" /></a>
+</p>
 
 - AI Agent System — intelligent automation and orchestration of workflows
 - CNN Image Classifier — image recognition pipeline with training & inference
