@@ -1,4 +1,13 @@
-# Md Bari
+<style>
+  @keyframes wave {
+    0%, 100% { transform: translateY(0); }
+    25% { transform: translateY(-10px); }
+    50% { transform: translateY(0); }
+    75% { transform: translateY(-5px); }
+  }
+</style>
+
+# <span style="animation: wave 2s ease-in-out infinite; display: inline-block; transform-origin: bottom;">Md Bari</span>
 
 <p align="center">
   <img src="https://github.com/Md-Bari.png?size=150" alt="Md Bari" width="150" style="border-radius:50%" />
