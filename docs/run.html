@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Run: RofiqulBari.say_hi()</title>
+  <style>
+    body{font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:#0d1117; color:#c9d1d9; padding:24px}
+    .container{max-width:900px;margin:0 auto}
+    h1{color:#58a6ff}
+    pre#code{background:#010409;border:1px solid #21262d;padding:16px;border-radius:8px;color:#9ccfd8;overflow:auto}
+    .controls{margin:12px 0}
+    button#runBtn{display:inline-flex;align-items:center;gap:8px;background:#12b886;border:none;color:white;padding:10px 14px;border-radius:8px;cursor:pointer;font-weight:600}
+    button#runBtn:disabled{opacity:0.6;cursor:not-allowed}
+    #terminal{background:#000;border-radius:6px;padding:12px;color:#8affc1;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,monospace;margin-top:12px;min-height:80px;border:1px solid #0b5e3a}
+    .note{color:#8b949e;font-size:13px;margin-top:8px}
+    .spinner{width:14px;height:14px;border-radius:2px;background:linear-gradient(90deg, rgba(255,255,255,0.4), rgba(255,255,255,0.2));display:inline-block}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Run: RofiqulBari.say_hi()</h1>
+    <p class="note">This runs the Python snippet in your browser using Pyodide. No server required.</p>
+
+    <pre id="code">class RofiqulBari:
+    def __init__(self):
+        self.name = "Md Rofiqul Bari"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.role = "AI Engineer @ Betopia Limited"
+        self.education = "BSc in CSE, Daffodil International University (CGPA 3.87/4.00)"
+        self.focus = [
+            "LLM-powered chatbots & agents (LangChain, LangGraph)",
+            "Retrieval-Augmented Generation (RAG) pipelines",
+            "Computer Vision & Medical Image Classification",
+            "Scalable APIs with FastAPI & Django REST Framework"
+        ]
+        self.currently_researching = "Explainable AI (XAI) in medical imaging"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something with AI!")
+</pre>
+
+    <div class="controls">
+      <button id="runBtn" title="Run the code">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 3v18l15-9L5 3z" fill="white"/></svg>
+        Run
+      </button>
+    </div>
+
+    <div id="terminal" role="region" aria-live="polite">Click "Run" to execute the code — output will appear here in terminal style.</div>
+    <p class="note">Powered by <a href="https://pyodide.org/" target="_blank" rel="noopener noreferrer">Pyodide</a>. This runs entirely in your browser.</p>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/pyodide/v0.23.4/full/pyodide.js"></script>
+  <script>
+    let pyodideReady = false;
+    let pyodide = null;
+    async function ensurePyodide(){
+      if(pyodideReady) return;
+      document.getElementById('terminal').textContent = 'Loading Python runtime (Pyodide)…';
+      pyodide = await loadPyodide({indexURL: 'https://cdn.jsdelivr.net/pyodide/v0.23.4/full/'});
+      pyodideReady = true;
+      document.getElementById('terminal').textContent = 'Python runtime ready. Click Run to execute the snippet.';
+    }
+    ensurePyodide();
+
+    function indentLines(s, n){
+      return s.split('\n').map(l => ' '.repeat(n) + l).join('\n');
+    }
+
+    document.getElementById('runBtn').addEventListener('click', async function(){
+      const btn = this;
+      btn.disabled = true;
+      await ensurePyodide();
+      const code = document.getElementById('code').innerText;
+
+      // Build a wrapper that captures stdout and prints it as `result` variable
+      const wrapper = `import sys\nfrom io import StringIO\n_buf = StringIO()\n_old = sys.stdout\nsys.stdout = _buf\ntry:\n${indentLines(code, 4)}\nobj = RofiqulBari()\nobj.say_hi()\nexcept Exception as e:\n    import traceback\n    traceback.print_exc()\nfinally:\n    sys.stdout = _old\nresult = _buf.getvalue()\n`;
+
+      const term = document.getElementById('terminal');
+      term.textContent = 'Running…';
+      try{
+        await pyodide.runPythonAsync(wrapper);
+        const res = pyodide.globals.get('result');
+        const text = res == null ? '' : res.toString();
+        term.textContent = text || '(no output)';
+      }catch(err){
+        term.textContent = 'Error:\n' + err;
+      }finally{
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>
