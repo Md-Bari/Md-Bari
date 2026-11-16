@@ -7,9 +7,9 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rofiqul-bari-shitol-414965274/"><img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rofiqulbari01@gmail.com"><img src="https://img.shields.io/badge/Email-764ba2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://md-bari.github.io/shitol-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p>
@@ -95,25 +95,15 @@ class RofiqulBari:
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Md-Bari/aura"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=aura&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="aura" /></a>
-<a href="https://github.com/Md-Bari/eduai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=eduai&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="eduai" /></a>
-<a href="https://github.com/Md-Bari/enterprise-rag-chatbot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=enterprise-rag-chatbot&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="enterprise-rag-chatbot" /></a>
-<a href="https://github.com/Md-Bari/dsnet"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=dsnet&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="dsnet" /></a>
-<a href="https://github.com/Md-Bari/ai-prediction-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=ai-prediction-api&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="ai-prediction-api" /></a>
-<a href="https://github.com/Md-Bari/retail-etl-automation"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Bari&repo=retail-etl-automation&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="retail-etl-automation" /></a>
-
-</div>
-
 | Project | Stack | Highlight |
 |---|---|---|
-| [**Aura**](https://github.com/Md-Bari/aura) — AI Personal Finance Platform | Next.js, DRF, PostgreSQL, Celery, Redis, Groq, ElevenLabs, Docker | 5-microservice app with a real-time voice AI financial assistant |
-| [**EduAI**](https://github.com/Md-Bari/eduai) — AI Knowledge Platform | Django, Next.js, PostgreSQL, PGVector, Docker | RAG pipeline serving scraped admission and scholarship data via FastAPI |
-| [**Enterprise RAG Chatbot**](https://github.com/Md-Bari/enterprise-rag-chatbot) | DRF, FastAPI, PostgreSQL, PGVector, ChromaDB, Gemini, OpenAI | Dual vector storage with reranking and cited LLM responses |
-| [**DSNet**](https://github.com/Md-Bari/dsnet) — Medical Image Classification | TensorFlow, Keras, OpenCV, Grad-CAM | 98% test accuracy; basis for 2 peer-reviewed publications |
-| [**AI Prediction API Platform**](https://github.com/Md-Bari/ai-prediction-api) | FastAPI, Pydantic, Scikit-learn, TensorFlow, Docker | Async, low-latency, independently versioned model serving |
-| [**Retail ETL Automation**](https://github.com/Md-Bari/retail-etl-automation) | Python, REST API, PostgreSQL | Cut manual data-handling effort by ~80% |
+| [**EMP-EDU**](https://github.com/Md-Bari/Web_dashboard_face_expression) — Live Classroom Analytics | Next.js, Django Channels, Celery, Redis, PostgreSQL, YOLO11m, ONNX Runtime, Docker | Real-time student emotion, attention, and eye-movement tracking with a fine-tuned YOLO11m model |
+| [**Aura**](https://github.com/Md-Bari/Expense-Tracker-Ai-Based-System) — AI Personal Finance Platform | Next.js, DRF, PostgreSQL, Celery, Redis, Groq, ElevenLabs, Docker | 5-microservice app with a real-time voice AI financial assistant |
+| [**EduAI**](https://github.com/Md-Bari/RAG-Chatbot-with-a-Self-Updating-Knowledge-Base) — AI Knowledge Platform | Django, Next.js, PostgreSQL, PGVector, Docker | RAG pipeline serving scraped admission and scholarship data via FastAPI |
+| [**Enterprise RAG Chatbot**](https://github.com/Md-Bari/Customized-industry-rag-Chatbot-with_Citation) | DRF, FastAPI, PostgreSQL, PGVector, ChromaDB, Gemini, OpenAI | Dual vector storage with reranking and cited LLM responses |
+| [**DSNet**](https://github.com/Md-Bari/Brest-Cancer-DSNet) — Medical Image Classification | TensorFlow, Keras, OpenCV, Grad-CAM | 98% test accuracy; basis for 2 peer-reviewed publications |
+| **AI Prediction API Platform** | FastAPI, Pydantic, Scikit-learn, TensorFlow, Docker | Async, low-latency, independently versioned model serving |
+| [**Retail ETL Automation**](https://github.com/Md-Bari/RetailFlow-ETL-Analytics-System) | Python, REST API, PostgreSQL | Cut manual data-handling effort by ~80% |
 
 ## 💼 Experience
 
@@ -146,12 +136,11 @@ class RofiqulBari:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Bari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Bari&layout=compact&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=Md-Bari&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
 
-<img src="https://raw.githubusercontent.com/Md-Bari/Md-Bari/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Bari&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+<img src="https://raw.githubusercontent.com/Md-Bari/Md-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 
 </div>
 
