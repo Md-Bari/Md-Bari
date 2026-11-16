@@ -97,13 +97,13 @@ class RofiqulBari:
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [**EMP-EDU**](https://github.com/Md-Bari/Web_dashboard_face_expression) — Live Classroom Analytics | Next.js, Django Channels, Celery, Redis, PostgreSQL, YOLO11m, ONNX Runtime, Docker | Real-time student emotion, attention, and eye-movement tracking with a fine-tuned YOLO11m model |
-| [**Aura**](https://github.com/Md-Bari/Expense-Tracker-Ai-Based-System) — AI Personal Finance Platform | Next.js, DRF, PostgreSQL, Celery, Redis, Groq, ElevenLabs, Docker | 5-microservice app with a real-time voice AI financial assistant |
-| [**EduAI**](https://github.com/Md-Bari/RAG-Chatbot-with-a-Self-Updating-Knowledge-Base) — AI Knowledge Platform | Django, Next.js, PostgreSQL, PGVector, Docker | RAG pipeline serving scraped admission and scholarship data via FastAPI |
-| [**Enterprise RAG Chatbot**](https://github.com/Md-Bari/Customized-industry-rag-Chatbot-with_Citation) | DRF, FastAPI, PostgreSQL, PGVector, ChromaDB, Gemini, OpenAI | Dual vector storage with reranking and cited LLM responses |
-| [**DSNet**](https://github.com/Md-Bari/Brest-Cancer-DSNet) — Medical Image Classification | TensorFlow, Keras, OpenCV, Grad-CAM | 98% test accuracy; basis for 2 peer-reviewed publications |
+| [**EMP-EDU**](https://github.com/Md-Bari/emp-edu) — Live Classroom Analytics | Next.js, Django Channels, Celery, Redis, PostgreSQL, YOLO11m, ONNX Runtime, Docker | Real-time student emotion, attention, and eye-movement tracking with a fine-tuned YOLO11m model |
+| [**Aura**](https://github.com/Md-Bari/aura-expense-tracker) — AI Personal Finance Platform | Next.js, DRF, PostgreSQL, Celery, Redis, Groq, ElevenLabs, Docker | 5-microservice app with a real-time voice AI financial assistant |
+| [**EduAI**](https://github.com/Md-Bari/self-updating-rag-chatbot) — AI Knowledge Platform | Django, Next.js, PostgreSQL, PGVector, Docker | RAG pipeline serving scraped admission and scholarship data via FastAPI |
+| [**Enterprise RAG Chatbot**](https://github.com/Md-Bari/industry-rag-chatbot-with-citations) | DRF, FastAPI, PostgreSQL, PGVector, ChromaDB, Gemini, OpenAI | Dual vector storage with reranking and cited LLM responses |
+| [**DSNet**](https://github.com/Md-Bari/dsnet-breast-cancer) — Medical Image Classification | TensorFlow, Keras, OpenCV, Grad-CAM | 98% test accuracy; basis for 2 peer-reviewed publications |
 | **AI Prediction API Platform** | FastAPI, Pydantic, Scikit-learn, TensorFlow, Docker | Async, low-latency, independently versioned model serving |
-| [**Retail ETL Automation**](https://github.com/Md-Bari/RetailFlow-ETL-Analytics-System) | Python, REST API, PostgreSQL | Cut manual data-handling effort by ~80% |
+| [**Retail ETL Automation**](https://github.com/Md-Bari/retailflow-etl-analytics) | Python, REST API, PostgreSQL | Cut manual data-handling effort by ~80% |
 
 ## 💼 Experience
 
